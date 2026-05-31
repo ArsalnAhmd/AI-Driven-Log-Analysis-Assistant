@@ -63,23 +63,6 @@ python mega_chatbot_ui.py
 
 ---
 
-## 🧪 Example Test Cases
-**Test Case 1: Valid Login**  
-- Input: `admin / secure@123`  
-- Expected: Successful login  
-- Result: ✅ Login successful  
-
-**Test Case 2: Invalid Login**  
-- Input: `admin / wrongpass`  
-- Expected: Error message  
-- Result: ❌ Login failed, error displayed  
-
-**Test Case 3: AI Query**  
-- Input: *“What are today’s critical errors?”*  
-- Expected: Filtered CRITICAL logs  
-- Result: ✅ AI returned accurate entries  
-
----
 
 ## 📊 Diagrams
 - **System Architecture**  
